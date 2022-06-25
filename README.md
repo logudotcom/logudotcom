@@ -15,6 +15,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
   <hr>
    
 
