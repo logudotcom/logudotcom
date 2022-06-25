@@ -1,5 +1,5 @@
 <p>  
-    Hello, I am Logan Nathan, Web developer and working for Boscosoft. 
+    <h3>Hello, I am Logan Nathan, Web developer and working for Boscosoft. </h3>
 </p>
 
 
