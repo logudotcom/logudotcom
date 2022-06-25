@@ -1,10 +1,7 @@
 
 
-<p align="center">
-  <em>
-    Hello, I am Logan Nathan, Web developer and working for Boscosoft. <br>
-    
-</p>
+<p>  
+    Hello, I am Logan Nathan, Web developer and working for Boscosoft. </p>
  
 
 
@@ -17,10 +14,9 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"> </code>
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"> </code>
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <hr>
+</p>
    
-
-Last Edited on: 15/06/2022
+Last Edited on: 25/06/2022
 
 
 
