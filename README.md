@@ -1,5 +1,6 @@
 <p>  
     <h3>Hello, I am Logan Nathan, Web developer and working for Boscosoft. </h3>
+    <img src="https://komarev.com/ghpvc/?username=logudotcom&amp;style=for-the-badge" style="max-width: 100%;">
 </p>
 
 
@@ -30,6 +31,7 @@
 </p>   
 
 <p>Last Edited on: 25/06/2022</p>
+
 
 
 
