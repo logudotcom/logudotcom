@@ -30,8 +30,6 @@
     <code> <img height="50" src="https://www.vectorlogo.zone/logos/joomla/joomla-ar21.svg"> </code>        
 </p>   
 
-<p>Last Edited on: 25/06/2022</p>
-
 
 
 
