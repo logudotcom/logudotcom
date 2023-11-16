@@ -1,5 +1,5 @@
 <p>  
-    <h3>Hello, I am Logan Nathan, Web developer and working for Boscosoft. </h3>
+    <h3>Hello, I am Logan Nathan, Web developer. </h3>
     <img src="https://komarev.com/ghpvc/?username=logudotcom&amp;style=for-the-badge" style="max-width: 100%;">
 </p>
 
